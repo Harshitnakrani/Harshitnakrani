@@ -2,13 +2,13 @@
 
 🚀 **Full Stack Developer | Mobile App Developer | ML Enthusiast**  
 🎯 Building modern apps & AI experiences with **React Native, Next.js, and Machine Learning**  
-🌍 From India | Founder @ **NeevTechnospace Software Production**
+
 
 ---
 
 ## 🧠 About Me
 
-- 💼 Currently building **CivilianPro** – a two-sided home service booking platform (React Native + Firebase + Stream + Razorpay)  
+
 - 🎥 Previously built **Playnet**, a full-stack video platform like YouTube (Next.js + Express + MongoDB + Aggregations)  
 - 🧠 Working on **Prepify**, an AI interview app with voice input/output  
 - 💬 Ask me about **MERN, React Native, Firebase, or AI integrations**  
@@ -58,12 +58,6 @@
 ---
 
 ## 🌟 Featured Projects
-
-### 🏠 [CivilianPro](#)
-> A two-sided mobile app for booking home services (plumber, electrician, painter, etc.)
-- Built with **Expo React Native**, **Firebase**, **Razorpay**, **Stream API**
-- Provider subscription system (non-commission model)
-- Real-time booking feed, map view, and in-app calls
 
 ### 📹 [Playnet](#)
 > YouTube-like platform built from scratch using **MERN**
