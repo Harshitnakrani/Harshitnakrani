@@ -1,3 +1,5 @@
+
+````md id="58214"
 # Hi, I'm Harshit Nakrani
 
 ### Full-Stack Developer · AI/ML Builder · Systems Enthusiast
@@ -6,10 +8,10 @@ I build **developer tools, AI-powered products, and scalable applications** — 
 
 ```text
 Building → Learning → Breaking → Rebuilding → Shipping
-```
+````
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge\&logo=vercel\&logoColor=white)]([https://harshitnakrani.netlify.app/](https://www.harshitnakrani.me/))
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://www.harshitnakrani.me/)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/HarshitNakrani)
 [![Email](https://img.shields.io/badge/Email-000?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:nakraniharshit629@gmail.com)
 
 ---
@@ -46,23 +48,23 @@ Studying and implementing the fundamentals behind modern language models from th
 
 ## Tech Stack
 
-**Languages**
+### Languages
 
 `TypeScript` `JavaScript` `Python` `Go` `C++`
 
-**Frontend / Mobile**
+### Frontend / Mobile
 
 `React` `Next.js` `React Native` `Expo`
 
-**Backend**
+### Backend
 
 `Node.js` `NestJS` `Express`
 
-**AI / ML**
+### AI / ML
 
 `PyTorch` `OpenCV` `YOLO` `LLMs` `RAG` `TTS` `STT`
 
-**Data / Infrastructure**
+### Data / Infrastructure
 
 `PostgreSQL` `MongoDB` `Redis` `Firebase` `Docker` `Git`
 
@@ -110,6 +112,8 @@ Developer Tools:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitNakrani\&layout=compact\&hide_border=true\&theme=transparent)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=HarshitNakrani\&hide_border=true\&theme=transparent)
+
 ---
 
 ### `make something → learn something → ship something`
@@ -117,3 +121,4 @@ Developer Tools:
 > Building software is my favorite way of learning.
 
 **Harshit Nakrani**
+:::
